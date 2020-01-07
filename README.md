@@ -16,3 +16,20 @@ A step by step series of examples that tell you how to get a development env run
 1. step 2 
 1. step 3
 
+## Running the Tests 
+Explanation of how to run tests for system 
+
+### Add coding style tests 
+Explanation of what tests test for and why
+
+## Deployment
+How to deploy on a live system
+
+## Built With
+* [Atom](https://atom.io/)
+
+## Authors 
+* **Laura Steel** -- *initial work* -- [Coder & Creative](https://codercreative.org)
+
+## Inspiration 
+* Thanks to..
